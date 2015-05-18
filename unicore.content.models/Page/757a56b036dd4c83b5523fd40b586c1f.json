@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "44e0ca05dd3f423aa88c87688f104306"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "Estos n\u00fameros demuestran el inmenso impacto que las llamadas tecnolog\u00edas de la comunicaci\u00f3n y la informaci\u00f3n (TIC: la televisi\u00f3n, tel\u00e9fonos celulares, internet...) tienen en nuestra vida cotidiana y, sobre todo, en el modo en que nos comunicamos entre nosotros y con el mundo.", 
   "source": null, 
