@@ -10,14 +10,11 @@
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "44e0ca05dd3f423aa88c87688f104306", 
-    "757a56b036dd4c83b5523fd40b586c1f"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "Para los ni\u00f1os, ni\u00f1as y adolescentes, las TIC son el modo natural de comunicaci\u00f3n entre ellos y de interacci\u00f3n con el mundo, por eso se los llama **nativos digitales**.", 
   "source": null, 
