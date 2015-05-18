@@ -1,22 +1,22 @@
 {
   "subtitle": "", 
-  "description": "", 
+  "description": "En Paraguay, en la actualidad hay m\u00e1s de 450.000 hogares con computadoras conectadas a internet, y m\u00e1s de 2.200.000 paraguayos y paraguayas utilizan redes sociales.", 
   "language": "spa_ES", 
   "title": "En Paraguay, en la actualidad hay m\u00e1s de 450.000 hogares con computadoras conectadas a internet", 
   "primary_category": "a61f95d9db354fbb892d6308c9f529de", 
   "created_at": "2015-05-18T14:55:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-18T15:07:52.901057+00:00", 
+  "modified_at": "2015-05-18T15:14:28.841596+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "En Paraguay, en la actualidad hay m\u00e1s de 450.000 hogares con computadoras conectadas a internet, y m\u00e1s de 2.200.000 paraguayos y paraguayas utilizan redes sociales.", 
+  "content": "En Paraguay, en la actualidad hay m\u00e1s de 450.000 hogares con computadoras conectadas a internet, y m\u00e1s de 2.200.000 paraguayos y paraguayas utilizan redes sociales.\r\n\r\nEstos n\u00fameros demuestran el inmenso impacto que las llamadas tecnolog\u00edas de la comunicaci\u00f3n y la informaci\u00f3n (TIC: la televisi\u00f3n, tel\u00e9fonos celulares, internet...) tienen en nuestra vida cotidiana y, sobre todo, en el modo en que nos comunicamos entre nosotros y con el mundo.\r\n\r\nPara los ni\u00f1os, ni\u00f1as y adolescentes, las TIC son el modo natural de comunicaci\u00f3n entre ellos y de interacci\u00f3n con el mundo, por eso se los llama nativos digitales.\r\n\r\nEn octubre de 2010, Unicef realiz\u00f3 una investigaci\u00f3n sobre el uso de las redes sociales entre los adolescentes, que mostr\u00f3 que estas \u2013sobre todo Facebook\u2013 son las herramientas de comunicaci\u00f3n m\u00e1s utilizadas por la amplitud de posibilidades que brindan los muros, el chat, los videos, las fotos y las aplicaciones de juegos, preguntas o encuestas.\r\n\r\nComo padres y madres, estas nuevas formas de comunicaci\u00f3n plantean una serie de desaf\u00edos a la hora de garantizar los derechos de los j\u00f3venes y de protegerlos de los riesgos que existen en el ciberespacio.", 
   "source": null, 
   "featured": false, 
   "author_tags": [
