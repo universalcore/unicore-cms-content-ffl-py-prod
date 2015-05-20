@@ -1,0 +1,29 @@
+{
+  "subtitle": "Establecer los par\u00e1metros de privacidad", 
+  "description": "Establecer los par\u00e1metros de privacidad suele presentar cierto grado de complejidad. En el caso de ni\u00f1os, ni\u00f1as y adolescentes, es importante que padres, madres o adultos a cargo puedan conversar con ellos sobre cu\u00e1les van a ser los criterios de privacidad que aplicar\u00e1n respecto de la informaci\u00f3n que suben a internet.", 
+  "language": "spa_ES", 
+  "title": "Establecer los par\u00e1metros de privacidad", 
+  "primary_category": "8644e5c9e8ad4685b6f79b0c58a061cb", 
+  "created_at": "2015-05-20T19:43:25.976155+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T19:43:25.976491+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Establecer los par\u00e1metros de privacidad suele presentar cierto grado de complejidad. En el caso de ni\u00f1os, ni\u00f1as y adolescentes, es importante que padres, madres o adultos a cargo puedan conversar con ellos sobre cu\u00e1les van a ser los criterios de privacidad que aplicar\u00e1n respecto de la informaci\u00f3n que suben a internet.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "establecer-los-parametros-de-privacidad", 
+  "uuid": "cb6b8ce483654d1497e748de47321df0"
+}
