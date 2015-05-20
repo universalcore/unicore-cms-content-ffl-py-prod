@@ -1,0 +1,29 @@
+{
+  "subtitle": "Es bueno que ni\u00f1os", 
+  "description": "Es bueno que ni\u00f1os, ni\u00f1as y adolescentes comprendan la diferencia entre \u201camigos\u201d y \u201ccontactos\u201d.", 
+  "language": "spa_ES", 
+  "title": "Es bueno que ni\u00f1os", 
+  "primary_category": "44768d7e9c0045efb8b236224b559120", 
+  "created_at": "2015-05-20T19:30:12.663403+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T19:30:12.663606+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Es bueno que ni\u00f1os, ni\u00f1as y adolescentes comprendan la diferencia entre \u201camigos\u201d y \u201ccontactos\u201d.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "es-bueno-que-ninos", 
+  "uuid": "96025fc180d044e4915665806cb3f593"
+}
