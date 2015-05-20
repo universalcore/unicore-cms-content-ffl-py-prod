@@ -1,0 +1,29 @@
+{
+  "subtitle": "Es necesario conversar", 
+  "description": "Es necesario conversar sobre esto y permitirles pensar, elegir y determinar por s\u00ed mismos, con el consejo de un adulto, c\u00f3mo y con qui\u00e9n quieren compartir su informaci\u00f3n.", 
+  "language": "spa_ES", 
+  "title": "Es necesario conversar", 
+  "primary_category": "8644e5c9e8ad4685b6f79b0c58a061cb", 
+  "created_at": "2015-05-20T19:44:01.216985+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-20T19:44:01.217296+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Es necesario conversar sobre esto y permitirles pensar, elegir y determinar por s\u00ed mismos, con el consejo de un adulto, c\u00f3mo y con qui\u00e9n quieren compartir su informaci\u00f3n.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "es-necesario-conversar", 
+  "uuid": "c1cbeeb0c68149a08bafb929c840e873"
+}
