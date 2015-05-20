@@ -6,12 +6,12 @@
   "primary_category": "6baac05b6a2c44db9233fa678e5eb933", 
   "created_at": "2015-05-20T19:02:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T19:17:21.045399+00:00", 
+  "modified_at": "2015-05-20T19:26:09.552248+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-mayoria-de-las-redes-sociales", 
   "uuid": "5b3a560253f14c1ab251114c73d8147f"
