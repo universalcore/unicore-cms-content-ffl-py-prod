@@ -1,14 +1,14 @@
 {
-  "subtitle": "Los derechos de ni\u00f1os", 
+  "subtitle": "Los derechos de los ni\u00f1os en internet", 
   "uuid": "617665c1d51340feba35530a30e7999e", 
   "language": "spa_ES", 
-  "title": "Los derechos de ni\u00f1os", 
+  "title": "Los derechos de los ni\u00f1os en internet", 
   "image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "los-derechos-de-ninos", 
