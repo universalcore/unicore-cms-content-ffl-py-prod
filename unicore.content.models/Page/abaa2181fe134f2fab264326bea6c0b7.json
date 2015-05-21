@@ -6,12 +6,12 @@
   "primary_category": "8a2e4be6a61e4de08e367f4c3fdee2c3", 
   "created_at": "2015-05-21T14:47:14.360685+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T14:47:14.360896+00:00", 
+  "modified_at": "2015-05-21T14:50:26.524254+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "Tambi\u00e9n se pueden dar situaciones sexuales: que reciban o encuentren contenidos pornogr\u00e1ficos, que se encuentren personalmente con extra\u00f1os que conocieron en la web. Asimismo, podr\u00edan producir o subir material pornogr\u00e1fico a la red.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "tambien-se-pueden-dar", 
   "uuid": "abaa2181fe134f2fab264326bea6c0b7"
