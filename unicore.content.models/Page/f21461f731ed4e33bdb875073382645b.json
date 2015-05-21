@@ -1,0 +1,29 @@
+{
+  "subtitle": "Defender la libertad", 
+  "description": "Defender la libertad de las plataformas digitales es defender que todos sean igual de libres para expresarse sin ser agredidos o discriminados.", 
+  "language": "spa_ES", 
+  "title": "Defender la libertad", 
+  "primary_category": "c95ffe92cd954d7984ea3e428e85479c", 
+  "created_at": "2015-05-21T15:02:53.715422+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T15:02:53.715662+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Defender la libertad de las plataformas digitales es defender que todos sean igual de libres para expresarse sin ser agredidos o discriminados.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "defender-la-libertad", 
+  "uuid": "f21461f731ed4e33bdb875073382645b"
+}
