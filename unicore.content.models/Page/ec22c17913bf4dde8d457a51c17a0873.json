@@ -1,0 +1,29 @@
+{
+  "subtitle": "Actuar responsablemente", 
+  "description": "Actuar responsablemente cuando se encuentren con contenidos inconvenientes; no revelar ni compartir sus contrase\u00f1as. Y no elegir la opci\u00f3n \u201crecordar la contrase\u00f1a\u201d cuando se utilizan computadoras p\u00fablicas.", 
+  "language": "spa_ES", 
+  "title": "Actuar responsablemente", 
+  "primary_category": "e8d8bc22287e44688a15707b8bfac14f", 
+  "created_at": "2015-05-21T15:37:04.237642+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T15:37:04.237847+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Actuar responsablemente cuando se encuentren con contenidos inconvenientes; no revelar ni compartir sus contrase\u00f1as. Y no elegir la opci\u00f3n \u201crecordar la contrase\u00f1a\u201d cuando se utilizan computadoras p\u00fablicas.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "actuar-responsablemente", 
+  "uuid": "ec22c17913bf4dde8d457a51c17a0873"
+}
