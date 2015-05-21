@@ -6,12 +6,12 @@
   "primary_category": "e2616b6476f54339885803cb07c70458", 
   "created_at": "2015-05-21T15:54:56.034974+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:54:56.035179+00:00", 
+  "modified_at": "2015-05-21T15:55:23.022957+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "Conversar con los ni\u00f1os acerca de la informaci\u00f3n que se comparte contribuye a generar conciencia sobre los riesgos.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "conversar-con-los-ninos-acerca", 
   "uuid": "2b5310d58e6e40c7af618828a32b90e2"
