@@ -1,19 +1,19 @@
 {
   "subtitle": "Navegar responsablemente", 
   "uuid": "e8d8bc22287e44688a15707b8bfac14f", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "Navegar responsablemente", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "navegar-responsablemente", 
   "source": null, 
-  "position": 0, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "featured_in_navbar": false, 
   "id": null
