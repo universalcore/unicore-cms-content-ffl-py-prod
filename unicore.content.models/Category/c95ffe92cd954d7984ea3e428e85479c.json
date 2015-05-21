@@ -1,19 +1,19 @@
 {
   "subtitle": "\u00bfQu\u00e9 hacer frente a la discriminaci\u00f3n?", 
   "uuid": "c95ffe92cd954d7984ea3e428e85479c", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "\u00bfQu\u00e9 hacer frente a la discriminaci\u00f3n?", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "que-hacer-frente-la-discriminacion", 
   "source": null, 
-  "position": 0, 
+  "position": 22, 
   "image_host": "http://thumbor.unicore.io", 
   "featured_in_navbar": false, 
   "id": null
