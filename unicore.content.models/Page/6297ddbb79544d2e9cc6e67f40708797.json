@@ -1,0 +1,29 @@
+{
+  "subtitle": "La tarea de supervisi\u00f3n", 
+  "description": "La tarea de supervisi\u00f3n de los padres y madres o cuidadores y cuidadoras debe necesariamente ir de la mano con la construcci\u00f3n de un v\u00ednculo de confianza que permita un di\u00e1logo fluido, para que compartan con nosotros sus preocupaciones e inquietudes y, de ese modo, podamos ayudarlos a que superen sus dificultades.", 
+  "language": "spa_ES", 
+  "title": "La tarea de supervisi\u00f3n", 
+  "primary_category": "45328ffd036c47b4938ba70ab46e71a2", 
+  "created_at": "2015-05-21T14:32:38.198804+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T14:32:38.199224+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La tarea de supervisi\u00f3n de los padres y madres o cuidadores y cuidadoras debe necesariamente ir de la mano con la construcci\u00f3n de un v\u00ednculo de confianza que permita un di\u00e1logo fluido, para que compartan con nosotros sus preocupaciones e inquietudes y, de ese modo, podamos ayudarlos a que superen sus dificultades.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-tarea-de-supervision", 
+  "uuid": "6297ddbb79544d2e9cc6e67f40708797"
+}
