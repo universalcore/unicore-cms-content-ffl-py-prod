@@ -1,0 +1,29 @@
+{
+  "subtitle": "Es importante, en principio", 
+  "description": "Es importante, en principio, consultar si los ni\u00f1os y ni\u00f1as est\u00e1n usando estas tecnolog\u00edas y si sus t\u00e9rminos permiten su uso a menores de 18 a\u00f1os.", 
+  "language": "spa_ES", 
+  "title": "Es importante, en principio", 
+  "primary_category": "b1f53a1702f74e87a2438e7370c4baf1", 
+  "created_at": "2015-05-21T15:46:30.849062+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T15:46:30.849292+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Es importante, en principio, consultar si los ni\u00f1os y ni\u00f1as est\u00e1n usando estas tecnolog\u00edas y si sus t\u00e9rminos permiten su uso a menores de 18 a\u00f1os.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "es-importante-en-principio", 
+  "uuid": "2904b7921723465cbea6afc76f836613"
+}
