@@ -1,19 +1,19 @@
 {
   "subtitle": "Configurar la privacidad en Facebook", 
   "uuid": "d9ca9af34962489bbbfdcb89627da644", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "Configurar la privacidad en Facebook", 
   "image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "configurar-la-privacidad-en-facebook", 
   "source": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "featured_in_navbar": false, 
   "id": null
