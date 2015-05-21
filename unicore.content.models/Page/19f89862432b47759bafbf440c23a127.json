@@ -6,12 +6,12 @@
   "primary_category": "9ef7e8bd480b4557bdf89ff12be82a5d", 
   "created_at": "2015-05-21T15:18:15.005434+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:18:15.005645+00:00", 
+  "modified_at": "2015-05-21T15:20:05.750386+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "Ministerio P\u00fablico: opera las 24 horas. Las denuncias pueden realizase sin importar el hecho. El caso se deriva a las unidades fiscales especializadas seg\u00fan el caso. La denuncia de trata de personas puede realizarse a trav\u00e9s de un formulario ingresando a la p\u00e1gina web [http://denuncias.ministeriopublico.gov.py/denuncias/basico][1]. Tel\u00e9fono: (021) 454 611. Direcci\u00f3n: Nuestra Se\u00f1ora de la Asunci\u00f3n c/ Haedo.\r\n\r\n\r\n  [1]: http://denuncias.ministeriopublico.gov.py/denuncias/basico", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ministerio-publico", 
   "uuid": "19f89862432b47759bafbf440c23a127"
