@@ -6,12 +6,12 @@
   "primary_category": "fec84c5fa09448d9be7bbc65dfe1745e", 
   "created_at": "2015-05-21T15:29:27.538740+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:29:27.539115+00:00", 
+  "modified_at": "2015-05-21T15:31:54.440255+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,7 +19,9 @@
   "content": "Generar espacios de confianza para que ni\u00f1os y ni\u00f1as puedan comentar sus dudas o las situaciones que les parezcan extra\u00f1as o inc\u00f3modas.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
   "position": 0, 
