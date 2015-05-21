@@ -1,0 +1,29 @@
+{
+  "subtitle": "Las redes sociales", 
+  "description": "Las redes sociales, junto a las TIC, nos abren un nuevo universo en el cual m\u00faltiples y diversas interacciones son posibles. Este nuevo universo es un espacio, por su misma esencia, de libertad y horizontalidad.", 
+  "language": "spa_ES", 
+  "title": "Las redes sociales", 
+  "primary_category": "c95ffe92cd954d7984ea3e428e85479c", 
+  "created_at": "2015-05-21T15:01:56.076328+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T15:01:56.076614+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Las redes sociales, junto a las TIC, nos abren un nuevo universo en el cual m\u00faltiples y diversas interacciones son posibles. Este nuevo universo es un espacio, por su misma esencia, de libertad y horizontalidad.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "las-redes-sociales", 
+  "uuid": "c3479dc9bbfc40a2b43cd3da8a68d60a"
+}
