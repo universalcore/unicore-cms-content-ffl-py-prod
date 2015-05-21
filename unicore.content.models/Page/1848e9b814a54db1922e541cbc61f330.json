@@ -6,12 +6,12 @@
   "primary_category": "97593f101c2a44a9be2fa7de4b38cb9a", 
   "created_at": "2015-05-21T15:26:41.863430+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:26:41.863890+00:00", 
+  "modified_at": "2015-05-21T15:27:30.030325+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "Conocer los contactos con los que se comunican, y advertirles sobre los riesgos vinculados a la suplantaci\u00f3n o robo de identidad.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "conocer-los-contactos", 
   "uuid": "1848e9b814a54db1922e541cbc61f330"
