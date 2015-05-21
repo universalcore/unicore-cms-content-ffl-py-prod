@@ -6,12 +6,12 @@
   "primary_category": "fec84c5fa09448d9be7bbc65dfe1745e", 
   "created_at": "2015-05-21T15:31:26.737994+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:31:26.738211+00:00", 
+  "modified_at": "2015-05-21T15:31:54.253713+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "Conocer sus intereses en internet, y compartir con ellos tiempo de navegaci\u00f3n, especialmente con los y las m\u00e1s peque\u00f1as.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "conocer-sus-intereses", 
   "uuid": "0cbffaa32f2f47e1980749e35ab240ee"
