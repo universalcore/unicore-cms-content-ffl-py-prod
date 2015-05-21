@@ -1,0 +1,29 @@
+{
+  "subtitle": "Comunicarse responsable", 
+  "description": "Comunicarse responsable y respetuosamente: recordarles que si sienten verg\u00fcenza de decir algo a la cara, no lo env\u00eden por correo electr\u00f3nico, chat o SMS, ni lo publiquen en una p\u00e1gina web. Deben recordar que detr\u00e1s de un nick o perfil hay una persona, y se deben seguir las mismas reglas de educaci\u00f3n y respeto que garantizan la convivencia en la vida real.", 
+  "language": "spa_ES", 
+  "title": "Comunicarse responsable", 
+  "primary_category": "e8d8bc22287e44688a15707b8bfac14f", 
+  "created_at": "2015-05-21T15:38:43.740228+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T15:38:43.740416+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Comunicarse responsable y respetuosamente: recordarles que si sienten verg\u00fcenza de decir algo a la cara, no lo env\u00eden por correo electr\u00f3nico, chat o SMS, ni lo publiquen en una p\u00e1gina web. Deben recordar que detr\u00e1s de un nick o perfil hay una persona, y se deben seguir las mismas reglas de educaci\u00f3n y respeto que garantizan la convivencia en la vida real.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comunicarse-responsable", 
+  "uuid": "86244a7f0fba465c94a60110ffa53d82"
+}
