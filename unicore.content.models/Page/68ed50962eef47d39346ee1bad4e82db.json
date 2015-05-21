@@ -1,0 +1,29 @@
+{
+  "subtitle": "Establecer normas", 
+  "description": "Establecer normas y pautas razonables, discuti\u00e9ndolas con ellos. Una buena idea es anotarlas y exponerlas cerca de la computadora para no olvidarlas.", 
+  "language": "spa_ES", 
+  "title": "Establecer normas", 
+  "primary_category": "97593f101c2a44a9be2fa7de4b38cb9a", 
+  "created_at": "2015-05-21T15:22:36.954548+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T15:22:36.954985+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Establecer normas y pautas razonables, discuti\u00e9ndolas con ellos. Una buena idea es anotarlas y exponerlas cerca de la computadora para no olvidarlas.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "establecer-normas", 
+  "uuid": "68ed50962eef47d39346ee1bad4e82db"
+}
