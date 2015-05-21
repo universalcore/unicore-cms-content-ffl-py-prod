@@ -1,0 +1,20 @@
+{
+  "subtitle": "Recursos y consejos para acompa\u00f1ar", 
+  "uuid": "97593f101c2a44a9be2fa7de4b38cb9a", 
+  "language": "spa_ES", 
+  "title": "Recursos y consejos para acompa\u00f1ar", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "recursos-y-consejos-para-acompanar", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
