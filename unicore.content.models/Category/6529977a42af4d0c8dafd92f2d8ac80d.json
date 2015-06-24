@@ -1,17 +1,17 @@
 {
-  "subtitle": "La discriminaci\u00f3n en internet", 
+  "subtitle": "Discriminaci\u00f3n en internet", 
   "uuid": "6529977a42af4d0c8dafd92f2d8ac80d", 
   "language": "spa_PY", 
-  "title": "La discriminaci\u00f3n en internet", 
+  "title": "Discriminaci\u00f3n en internet", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "la-discriminacion-en-internet", 
+  "slug": "discriminacion-en-internet", 
   "source": null, 
   "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
