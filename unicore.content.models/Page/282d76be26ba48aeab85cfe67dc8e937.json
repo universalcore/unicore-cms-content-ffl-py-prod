@@ -1,17 +1,17 @@
 {
   "subtitle": "Tratar de que internet", 
   "description": "Tratar de que internet y los h\u00e1bitos sobre su uso sean un tema de conversaci\u00f3n habitual con los ni\u00f1os, ni\u00f1as y adolescentes.", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "Tratar de que internet", 
   "primary_category": "fec84c5fa09448d9be7bbc65dfe1745e", 
   "created_at": "2015-05-21T15:30:22.377543+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:30:22.377764+00:00", 
+  "modified_at": "2015-06-24T20:17:15.882797+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "Tratar de que internet y los h\u00e1bitos sobre su uso sean un tema de conversaci\u00f3n habitual con los ni\u00f1os, ni\u00f1as y adolescentes.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "tratar-de-que-internet", 
   "uuid": "282d76be26ba48aeab85cfe67dc8e937"
