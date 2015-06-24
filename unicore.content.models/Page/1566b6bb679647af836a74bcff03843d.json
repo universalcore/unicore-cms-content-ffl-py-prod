@@ -1,17 +1,17 @@
 {
   "subtitle": "Para denunciar un caso", 
   "description": "Para denunciar un caso de discriminaci\u00f3n en internet es importante realizar la denuncia en la plataforma en la que est\u00e9 alojado el contenido discriminatorio (Facebook, Twitter, Instagram...). Adem\u00e1s, las denuncias se pueden realizar en las siguientes instituciones p\u00fablicas.", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "Para denunciar un caso", 
   "primary_category": "9ef7e8bd480b4557bdf89ff12be82a5d", 
   "created_at": "2015-05-21T15:11:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:20:06.353469+00:00", 
+  "modified_at": "2015-06-24T20:20:26.629135+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
