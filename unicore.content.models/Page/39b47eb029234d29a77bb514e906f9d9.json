@@ -1,17 +1,17 @@
 {
-  "subtitle": "Un contacto no necesariamente", 
+  "subtitle": "Contacto/amigo", 
   "description": "Un contacto no necesariamente tiene mucha informaci\u00f3n sobre nosotros. Un amigo, en cambio, suele saber d\u00f3nde vivimos, conoce a nuestra familia, comparte nuestra vida.", 
-  "language": "spa_ES", 
-  "title": "Un contacto no necesariamente", 
+  "language": "spa_PY", 
+  "title": "Contacto/amigo", 
   "primary_category": "44768d7e9c0045efb8b236224b559120", 
-  "created_at": "2015-05-20T19:31:04.706234+00:00", 
+  "created_at": "2015-05-20T19:31:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T19:31:04.706438+00:00", 
+  "modified_at": "2015-06-24T21:36:18.082553+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,11 +19,13 @@
   "content": "Un contacto no necesariamente tiene mucha informaci\u00f3n sobre nosotros. Un amigo, en cambio, suele saber d\u00f3nde vivimos, conoce a nuestra familia, comparte nuestra vida.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "diego"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 92, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "un-contacto-no-necesariamente", 
+  "slug": "contacto-amigo", 
   "uuid": "39b47eb029234d29a77bb514e906f9d9"
 }
