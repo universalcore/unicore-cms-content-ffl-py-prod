@@ -1,17 +1,17 @@
 {
-  "subtitle": "Una forma de orientar", 
+  "subtitle": "Im\u00e1genes apropiadas", 
   "description": "Una forma de orientar sobre las im\u00e1genes apropiadas para ser compartidas es elegirlas juntos o ejemplificar con las fotos de otros.", 
-  "language": "spa_ES", 
-  "title": "Una forma de orientar", 
+  "language": "spa_PY", 
+  "title": "Im\u00e1genes apropiadas", 
   "primary_category": "ab9cda784a2e4f38ac9682331d9a3f98", 
-  "created_at": "2015-05-21T19:06:10.363496+00:00", 
+  "created_at": "2015-05-21T19:06:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T19:06:53.938316+00:00", 
+  "modified_at": "2015-06-24T20:46:25.435841+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,8 +24,8 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "una-forma-de-orientar", 
+  "slug": "imagenes-apropiadas", 
   "uuid": "8c5a43bfd38547098bdcb9a28e8d877f"
 }
