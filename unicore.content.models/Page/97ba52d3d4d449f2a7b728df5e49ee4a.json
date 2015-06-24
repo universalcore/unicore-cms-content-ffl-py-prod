@@ -1,17 +1,17 @@
 {
-  "subtitle": "Regular el acceso a internet", 
+  "subtitle": "Regular el acceso", 
   "description": "Regular el acceso a internet no solo desde computadoras, notebooks y netbooks, sino tambi\u00e9n desde los tel\u00e9fonos celulares y otros dispositivos m\u00f3viles.", 
   "language": "spa_PY", 
-  "title": "Regular el acceso a internet", 
+  "title": "Regular el acceso", 
   "primary_category": "97593f101c2a44a9be2fa7de4b38cb9a", 
-  "created_at": "2015-05-21T15:23:11.972167+00:00", 
+  "created_at": "2015-05-21T15:23:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:16:37.101376+00:00", 
+  "modified_at": "2015-06-24T20:34:35.002372+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "regular-el-acceso-internet", 
+  "slug": "regular-el-acceso", 
   "uuid": "97ba52d3d4d449f2a7b728df5e49ee4a"
 }
