@@ -1,17 +1,17 @@
 {
   "subtitle": "El reporte de dichos contenidos", 
   "description": "El reporte de dichos contenidos no es, por lo general, una garant\u00eda de que sean excluidos o dados de baja, pero, sin embargo, es importante utilizarlas y reportarlos.", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "El reporte de dichos contenidos", 
   "primary_category": "9ef7e8bd480b4557bdf89ff12be82a5d", 
   "created_at": "2015-05-21T15:11:15.629013+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:20:06.492246+00:00", 
+  "modified_at": "2015-06-24T20:20:26.479914+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
