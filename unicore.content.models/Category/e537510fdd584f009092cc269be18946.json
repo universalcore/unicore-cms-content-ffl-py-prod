@@ -1,17 +1,17 @@
 {
-  "subtitle": "Internet: una oportunidad, un desaf\u00edo", 
+  "subtitle": "Internet: una oportunidad", 
   "uuid": "e537510fdd584f009092cc269be18946", 
   "language": "spa_PY", 
-  "title": "Internet: una oportunidad, un desaf\u00edo", 
+  "title": "Internet: una oportunidad", 
   "image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "internet-una-oportunidad-un-desafio", 
+  "slug": "internet-una-oportunidad", 
   "source": null, 
   "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
