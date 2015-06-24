@@ -1,17 +1,17 @@
 {
-  "subtitle": "La regulaci\u00f3n de las redes sociales", 
+  "subtitle": "Regulaci\u00f3n de las redes", 
   "uuid": "6baac05b6a2c44db9233fa678e5eb933", 
   "language": "spa_PY", 
-  "title": "La regulaci\u00f3n de las redes sociales", 
+  "title": "Regulaci\u00f3n de las redes", 
   "image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "la-regulacion-de-las-redes-sociales", 
+  "slug": "regulacion-de-las-redes", 
   "source": null, 
   "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
