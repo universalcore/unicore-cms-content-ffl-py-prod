@@ -1,17 +1,17 @@
 {
   "subtitle": "La mayor\u00eda de las redes sociales cuenta con herramientas", 
   "description": "La mayor\u00eda de las redes sociales cuenta con herramientas para denunciar este tipo de contenidos. Es importante utilizarlas cuando encontramos publicaciones que violan estas normas, para que sean eliminadas.", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "La mayor\u00eda de las redes sociales cuenta con herramientas", 
   "primary_category": "6baac05b6a2c44db9233fa678e5eb933", 
   "created_at": "2015-05-20T19:20:58.631286+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T19:26:09.192878+00:00", 
+  "modified_at": "2015-06-24T20:15:54.322279+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
