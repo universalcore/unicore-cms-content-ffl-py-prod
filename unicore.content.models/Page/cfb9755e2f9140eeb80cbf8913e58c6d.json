@@ -1,17 +1,17 @@
 {
   "subtitle": "Todos estos actos est\u00e1n expl\u00edcitamente", 
   "description": "Todos estos actos est\u00e1n expl\u00edcitamente prohibidos en los t\u00e9rminos y condiciones de las diferentes redes sociales, y tambi\u00e9n por la Constituci\u00f3n Nacional, las leyes nacionales y diversos tratados internacionales.", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "Todos estos actos est\u00e1n expl\u00edcitamente", 
   "primary_category": "6529977a42af4d0c8dafd92f2d8ac80d", 
   "created_at": "2015-05-21T14:56:54.534135+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T14:57:25.085160+00:00", 
+  "modified_at": "2015-06-24T20:15:24.010144+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
