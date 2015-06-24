@@ -1,17 +1,17 @@
 {
   "subtitle": "La mayor\u00eda de las redes sociales", 
   "description": "La mayor\u00eda de las redes sociales no permite la difusi\u00f3n de contenidos sexuales o material pornogr\u00e1fico, sobre todo los que est\u00e9n relacionados con ni\u00f1os, ni\u00f1as y adolescentes; no admite el lenguaje violento o que incite al odio; y no admite la discriminaci\u00f3n.", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "La mayor\u00eda de las redes sociales", 
   "primary_category": "6baac05b6a2c44db9233fa678e5eb933", 
   "created_at": "2015-05-20T19:02:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T19:26:09.552248+00:00", 
+  "modified_at": "2015-06-24T20:15:53.870303+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
