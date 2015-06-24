@@ -1,17 +1,17 @@
 {
-  "subtitle": "Casi todas las redes", 
+  "subtitle": "Reportar contenidos", 
   "description": "Casi todas las redes sociales cuentan con herramientas y espacios en los cuales pueden reportarse los contenidos que violan sus t\u00e9rminos y condiciones.", 
   "language": "spa_PY", 
-  "title": "Casi todas las redes", 
+  "title": "Reportar contenidos", 
   "primary_category": "9ef7e8bd480b4557bdf89ff12be82a5d", 
   "created_at": "2015-05-21T15:10:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:23:56.396511+00:00", 
+  "modified_at": "2015-06-24T21:39:43.336828+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "casi-todas-las-redes", 
+  "slug": "reportar-contenidos", 
   "uuid": "fac60c95d2ce4adda1fe056d0a435a9c"
 }
