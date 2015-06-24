@@ -1,17 +1,17 @@
 {
-  "subtitle": "Discriminaci\u00f3n es cualquier acto", 
+  "subtitle": "Discriminaci\u00f3n", 
   "description": "Discriminaci\u00f3n es cualquier acto que pretenda excluir a una persona o grupo por sus caracter\u00edsticas f\u00edsicas, su religi\u00f3n, etnia, condici\u00f3n social, econ\u00f3mica, orientaci\u00f3n sexual o preferencia pol\u00edtica.", 
   "language": "spa_PY", 
-  "title": "Discriminaci\u00f3n es cualquier acto", 
+  "title": "Discriminaci\u00f3n", 
   "primary_category": "6529977a42af4d0c8dafd92f2d8ac80d", 
-  "created_at": "2015-05-21T14:52:21.911917+00:00", 
+  "created_at": "2015-05-21T14:52:21+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:15:23.467340+00:00", 
+  "modified_at": "2015-06-24T20:24:35.430229+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "discriminacion-es-cualquier-acto", 
+  "slug": "discriminacion", 
   "uuid": "788caa0eac49404ba1d2e7ff0b54fe69"
 }
