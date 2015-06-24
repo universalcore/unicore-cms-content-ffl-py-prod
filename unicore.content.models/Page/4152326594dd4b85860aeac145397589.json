@@ -1,17 +1,17 @@
 {
-  "subtitle": "Estos n\u00fameros demuestran el inmenso impacto", 
+  "subtitle": "Inmenso impacto", 
   "description": "Estos n\u00fameros demuestran el inmenso impacto que las llamadas tecnolog\u00edas de la comunicaci\u00f3n y la informaci\u00f3n (TIC: la televisi\u00f3n, tel\u00e9fonos celulares, internet\u2026) tienen en nuestra vida cotidiana y, sobre todo, en el modo en que nos comunicamos entre nosotros y con el mundo.", 
   "language": "spa_PY", 
-  "title": "Estos n\u00fameros demuestran el inmenso impacto", 
+  "title": "Inmenso impacto", 
   "primary_category": "e537510fdd584f009092cc269be18946", 
-  "created_at": "2015-05-20T18:39:51.826164+00:00", 
+  "created_at": "2015-05-20T18:39:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:14:07.798432+00:00", 
+  "modified_at": "2015-06-24T20:34:07.054284+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "estos-numeros-demuestran-el-inmenso-impacto", 
+  "slug": "inmenso-impacto", 
   "uuid": "4152326594dd4b85860aeac145397589"
 }
