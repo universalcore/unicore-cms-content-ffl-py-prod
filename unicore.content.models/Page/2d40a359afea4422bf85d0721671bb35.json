@@ -1,17 +1,17 @@
 {
-  "subtitle": "Antes de decidir ingresar como miembro", 
+  "subtitle": "Antes de ingresar", 
   "description": "Antes de decidir ingresar como miembro a una red social, es importante conocer sus t\u00e9rminos y condiciones. Cuando esos cambian, lo que sucede frecuentemente, es necesario interiorizarse sobre cu\u00e1les fueron los cambios y para qu\u00e9 se realizaron.", 
   "language": "spa_PY", 
-  "title": "Antes de decidir ingresar como miembro", 
+  "title": "Antes de ingresar", 
   "primary_category": "6baac05b6a2c44db9233fa678e5eb933", 
-  "created_at": "2015-05-20T19:00:50.202602+00:00", 
+  "created_at": "2015-05-20T19:00:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:15:53.722698+00:00", 
+  "modified_at": "2015-06-24T20:26:05.923974+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "antes-de-decidir-ingresar-como-miembro", 
+  "slug": "antes-de-ingresar", 
   "uuid": "2d40a359afea4422bf85d0721671bb35"
 }
