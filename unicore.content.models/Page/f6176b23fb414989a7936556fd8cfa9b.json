@@ -1,17 +1,17 @@
 {
-  "subtitle": "Asimismo, es importante prevenir", 
+  "subtitle": "Actitud de revancha", 
   "description": "Asimismo, es importante prevenir cualquier actitud de revancha: es esencial que ni\u00f1os, ni\u00f1as y adolescentes comprendan que no tiene sentido responder a la discriminaci\u00f3n con m\u00e1s discriminaci\u00f3n; adem\u00e1s, consultar con la escuela y los organismos dedicados a combatir este tipo de acciones.\r\n", 
   "language": "spa_PY", 
-  "title": "Asimismo, es importante prevenir", 
+  "title": "Actitud de revancha", 
   "primary_category": "c95ffe92cd954d7984ea3e428e85479c", 
-  "created_at": "2015-05-21T15:06:18.341826+00:00", 
+  "created_at": "2015-05-21T15:06:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:18:50.215456+00:00", 
+  "modified_at": "2015-06-24T20:39:16.313618+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "asimismo-es-importante-prevenir", 
+  "slug": "actitud-de-revancha", 
   "uuid": "f6176b23fb414989a7936556fd8cfa9b"
 }
