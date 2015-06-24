@@ -1,17 +1,17 @@
 {
-  "subtitle": "Algunos riesgos en internet", 
+  "subtitle": "Riesgos en internet", 
   "uuid": "8a2e4be6a61e4de08e367f4c3fdee2c3", 
   "language": "spa_PY", 
-  "title": "Algunos riesgos en internet", 
+  "title": "Riesgos en internet", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "algunos-riesgos-en-internet", 
+  "slug": "riesgos-en-internet", 
   "source": null, 
   "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
