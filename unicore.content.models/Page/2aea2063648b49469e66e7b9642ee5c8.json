@@ -1,17 +1,17 @@
 {
-  "subtitle": "Si se vende la computadora", 
+  "subtitle": "Eliminar informaci\u00f3n personal", 
   "description": "Si se vende la computadora, eliminar toda la informaci\u00f3n personal que pueda contener. El m\u00e9todo m\u00e1s seguro es formateando el disco r\u00edgido antes de entregarla.", 
-  "language": "spa_ES", 
-  "title": "Si se vende la computadora", 
+  "language": "spa_PY", 
+  "title": "Eliminar informaci\u00f3n personal", 
   "primary_category": "e8d8bc22287e44688a15707b8bfac14f", 
-  "created_at": "2015-05-21T15:39:32.254262+00:00", 
+  "created_at": "2015-05-21T15:39:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T15:41:52.179695+00:00", 
+  "modified_at": "2015-06-24T20:55:49.096161+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,8 +24,8 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 6, 
+  "position": 27, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "si-se-vende-la-computadora", 
+  "slug": "eliminar-informacion-personal", 
   "uuid": "2aea2063648b49469e66e7b9642ee5c8"
 }
