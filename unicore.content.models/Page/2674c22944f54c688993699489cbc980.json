@@ -1,17 +1,17 @@
 {
-  "subtitle": "Es necesario conversar", 
+  "subtitle": "Compartir la informaci\u00f3n", 
   "description": "Es necesario conversar sobre esto y permitirles pensar, elegir y determinar por s\u00ed mismos, con el consejo de un adulto, c\u00f3mo y con qui\u00e9n quieren compartir su informaci\u00f3n.", 
-  "language": "spa_ES", 
-  "title": "Es necesario conversar", 
+  "language": "spa_PY", 
+  "title": "Compartir la informaci\u00f3n", 
   "primary_category": "8644e5c9e8ad4685b6f79b0c58a061cb", 
-  "created_at": "2015-05-20T19:44:01.216985+00:00", 
+  "created_at": "2015-05-20T19:44:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T19:45:49.398027+00:00", 
+  "modified_at": "2015-06-24T21:25:55.049824+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,8 +24,8 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 84, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "es-necesario-conversar", 
+  "slug": "compartir-la-informacion", 
   "uuid": "2674c22944f54c688993699489cbc980"
 }
