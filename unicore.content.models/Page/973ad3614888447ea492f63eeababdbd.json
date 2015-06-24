@@ -1,17 +1,17 @@
 {
-  "subtitle": "En Paraguay, en la actualidad", 
+  "subtitle": "En Paraguay", 
   "description": "En Paraguay, en la actualidad hay m\u00e1s de 450.000 hogares con computadoras conectadas a internet, y m\u00e1s de 2.200.000 paraguayos y paraguayas utilizan redes sociales.", 
   "language": "spa_PY", 
-  "title": "En Paraguay, en la actualidad", 
+  "title": "En Paraguay", 
   "primary_category": "e537510fdd584f009092cc269be18946", 
-  "created_at": "2015-05-20T18:38:06.070519+00:00", 
+  "created_at": "2015-05-20T18:38:06+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:14:07.651559+00:00", 
+  "modified_at": "2015-06-24T20:30:03.459244+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "en-paraguay-en-la-actualidad", 
+  "slug": "en-paraguay", 
   "uuid": "973ad3614888447ea492f63eeababdbd"
 }
