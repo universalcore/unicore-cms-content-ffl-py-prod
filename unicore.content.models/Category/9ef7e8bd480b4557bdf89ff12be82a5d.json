@@ -1,17 +1,17 @@
 {
-  "subtitle": "D\u00f3nde denunciar y c\u00f3mo", 
+  "subtitle": "D\u00f3nde denunciar", 
   "uuid": "9ef7e8bd480b4557bdf89ff12be82a5d", 
   "language": "spa_PY", 
-  "title": "D\u00f3nde denunciar y c\u00f3mo", 
+  "title": "D\u00f3nde denunciar", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "donde-denunciar-y-como", 
+  "slug": "donde-denunciar", 
   "source": null, 
   "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
