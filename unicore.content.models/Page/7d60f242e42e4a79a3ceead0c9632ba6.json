@@ -1,17 +1,17 @@
 {
   "subtitle": "La Convenci\u00f3n sobre los Derechos del Ni\u00f1o", 
   "description": "La Convenci\u00f3n sobre los Derechos del Ni\u00f1o (CDN, sancionada en 1989) garantiza a cada ni\u00f1o, ni\u00f1a y adolescente el derecho a opinar y ser escuchado (art. 12), la libertad de expresi\u00f3n, incluida la libertad de buscar, recibir y difundir informaci\u00f3n (art.13), la libertad de asociaci\u00f3n y asamblea y el derecho a la informaci\u00f3n (art. 17), entre otros.", 
-  "language": "spa_ES", 
+  "language": "spa_PY", 
   "title": "La Convenci\u00f3n sobre los Derechos del Ni\u00f1o", 
   "primary_category": "617665c1d51340feba35530a30e7999e", 
   "created_at": "2015-05-20T18:54:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-20T18:58:21.116539+00:00", 
+  "modified_at": "2015-06-24T20:16:17.456961+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
