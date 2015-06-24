@@ -1,17 +1,17 @@
 {
-  "subtitle": "Los ni\u00f1os est\u00e1n expuestos", 
+  "subtitle": "Exposici\u00f3n", 
   "description": "Los ni\u00f1os, ni\u00f1as y adolescentes est\u00e1n expuestos a otros riesgos en internet, ya sea como v\u00edctimas o como part\u00edcipes.", 
   "language": "spa_PY", 
-  "title": "Los ni\u00f1os est\u00e1n expuestos", 
+  "title": "Exposici\u00f3n", 
   "primary_category": "8a2e4be6a61e4de08e367f4c3fdee2c3", 
-  "created_at": "2015-05-21T14:42:12.145902+00:00", 
+  "created_at": "2015-05-21T14:42:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:19:26.225001+00:00", 
+  "modified_at": "2015-06-24T20:25:06.120687+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "los-ninos-estan-expuestos", 
+  "slug": "exposicion", 
   "uuid": "63eda5b1dcbc448d97a4d982d27234b5"
 }
