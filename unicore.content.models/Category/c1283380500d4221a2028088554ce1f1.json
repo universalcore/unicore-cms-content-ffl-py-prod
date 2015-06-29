@@ -1,19 +1,19 @@
 {
   "subtitle": "Imagen y futuro", 
   "uuid": "c1283380500d4221a2028088554ce1f1", 
-  "language": "spa_PY", 
+  "language": "spa_ES", 
   "title": "Imagen y futuro", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "imagen-y-futuro", 
   "source": null, 
-  "position": 9, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "featured_in_navbar": false, 
   "id": null
