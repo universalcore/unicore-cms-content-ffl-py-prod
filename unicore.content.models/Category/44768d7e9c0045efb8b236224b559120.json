@@ -1,19 +1,19 @@
 {
   "subtitle": "Amigos y contactos", 
   "uuid": "44768d7e9c0045efb8b236224b559120", 
-  "language": "spa_PY", 
+  "language": "spa_ES", 
   "title": "Amigos y contactos", 
   "image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "amigos-y-contactos", 
   "source": null, 
-  "position": 2, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "featured_in_navbar": false, 
   "id": null
