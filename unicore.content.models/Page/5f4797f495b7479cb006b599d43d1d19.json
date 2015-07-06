@@ -1,17 +1,17 @@
 {
   "subtitle": "Como padres y madres", 
-  "description": "Como padres y madres, estas nuevas formas de comunicaci\u00f3n plantean una serie de desaf\u00edos a la hora de garantizar los derechos de los j\u00f3venes y de protegerlos de los riesgos que existen en el ciberespacio.", 
-  "language": "spa_PY", 
+  "description": "Como padres y madres", 
+  "language": "spa_ES", 
   "title": "Como padres y madres", 
   "primary_category": "e537510fdd584f009092cc269be18946", 
-  "created_at": "2015-05-20T18:44:42.056387+00:00", 
+  "created_at": "2015-05-20T18:44:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:14:08.102669+00:00", 
+  "modified_at": "2015-07-06T18:33:45.842234+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-padres-y-madres", 
   "uuid": "5f4797f495b7479cb006b599d43d1d19"
