@@ -1,17 +1,17 @@
 {
-  "subtitle": "Otras formas", 
-  "description": "Otras formas", 
+  "subtitle": "Otras formas de discriminaci\u00f3n", 
+  "description": "Otras formas de discriminaci\u00f3n", 
   "language": "spa_ES", 
-  "title": "Otras formas", 
+  "title": "Otras formas de discriminaci\u00f3n", 
   "primary_category": "6529977a42af4d0c8dafd92f2d8ac80d", 
   "created_at": "2015-05-21T14:53:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T18:16:24.446454+00:00", 
+  "modified_at": "2015-07-06T19:13:44.973911+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "otras-formas", 
+  "slug": "otras-formas-de-discriminacion", 
   "uuid": "5eafe3ae2f1d4feebb2a9f0794bf33df"
 }
