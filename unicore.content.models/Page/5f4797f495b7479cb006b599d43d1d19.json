@@ -1,17 +1,17 @@
 {
-  "subtitle": "Como padres y madres", 
-  "description": "Como padres y madres", 
+  "subtitle": "Una serie de desaf\u00edos", 
+  "description": "Una serie de desaf\u00edos", 
   "language": "spa_ES", 
-  "title": "Como padres y madres", 
+  "title": "Una serie de desaf\u00edos", 
   "primary_category": "e537510fdd584f009092cc269be18946", 
   "created_at": "2015-05-20T18:44:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T18:33:45.842234+00:00", 
+  "modified_at": "2015-07-06T19:22:46.049542+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "como-padres-y-madres", 
+  "slug": "una-serie-de-desafios", 
   "uuid": "5f4797f495b7479cb006b599d43d1d19"
 }
