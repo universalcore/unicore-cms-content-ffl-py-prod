@@ -1,17 +1,17 @@
 {
   "subtitle": "Vacaciones", 
-  "description": "\u00bfLe contar\u00edas a un desconocido o desconocida d\u00f3nde, cu\u00e1ndo y con qui\u00e9n vas a pasar tus vacaciones?\r\n\r\n\u00bfDejar\u00edas abierta la puerta de tu casa?\r\n\r\n\u00bfAceptar\u00edas la invitaci\u00f3n para ir a la casa de alguien que conociste en un transporte p\u00fablico?", 
-  "language": "spa_PY", 
+  "description": "Vacaciones", 
+  "language": "spa_ES", 
   "title": "Vacaciones", 
   "primary_category": "59d4f8881b9d4253ae489522ccb84cec", 
   "created_at": "2015-05-21T14:36:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:59:51.077933+00:00", 
+  "modified_at": "2015-07-06T18:44:42.285922+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 69, 
+  "position": 72, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "vacaciones", 
   "uuid": "ae7ee398f411489d8a2baf67c81e80f7"
