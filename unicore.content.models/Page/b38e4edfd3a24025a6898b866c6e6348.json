@@ -1,17 +1,17 @@
 {
   "subtitle": "Revisar correos", 
-  "description": "Revisar, sin que lo sepan, los correos electr\u00f3nicos o los tel\u00e9fonos celulares es, a largo plazo, fuente de decepci\u00f3n para los ni\u00f1os, ni\u00f1as y adolescentes que, lejos de sentirse acompa\u00f1ados por los adultos, perciben estas acciones como actitudes de control y vigilancia. As\u00ed, se vuelven m\u00e1s reservados aun y se alejan de quienes pueden ayudarlos a resolver sus ocasionales problemas.", 
-  "language": "spa_PY", 
+  "description": "Revisar correos", 
+  "language": "spa_ES", 
   "title": "Revisar correos", 
   "primary_category": "45328ffd036c47b4938ba70ab46e71a2", 
   "created_at": "2015-05-21T14:33:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T21:20:57.436204+00:00", 
+  "modified_at": "2015-07-06T18:46:11.081068+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 73, 
+  "position": 76, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "revisar-correos", 
   "uuid": "b38e4edfd3a24025a6898b866c6e6348"
