@@ -1,17 +1,17 @@
 {
   "subtitle": "Amigos virtuales", 
-  "description": "Esto significa que los amigos virtuales quedan en segundo lugar, porque el gran atractivo es enterarse de lo que hacen los amigos que ya se tienen, facilitar los encuentros sociales con ellos y tambi\u00e9n intercambiar opiniones y sentimientos personales.", 
-  "language": "spa_PY", 
+  "description": "Amigos virtuales", 
+  "language": "spa_ES", 
   "title": "Amigos virtuales", 
   "primary_category": "46fcc009b3b7487499eff63063a4a397", 
   "created_at": "2015-05-20T19:36:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T21:33:19.451180+00:00", 
+  "modified_at": "2015-07-06T18:50:07.417202+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 87, 
+  "position": 90, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "amigos-virtuales", 
   "uuid": "c3e2811791ed42f796e8b1b8a4a314f1"
