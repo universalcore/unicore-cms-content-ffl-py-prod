@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
+  "subtitle": "Cr\u00e9dito", 
   "description": "Cr\u00e9dito", 
-  "language": "spa_PY", 
+  "language": "spa_ES", 
   "title": "Cr\u00e9dito", 
   "primary_category": null, 
   "created_at": "2014-12-10T11:50:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T21:38:36.407027+00:00", 
+  "modified_at": "2015-07-06T18:52:50.958640+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,8 +24,8 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 241, 
+  "position": 244, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "credits", 
+  "slug": "credito", 
   "uuid": "86c354da824848e5a42ea3050831f76e"
 }
