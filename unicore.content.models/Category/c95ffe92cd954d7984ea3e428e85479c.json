@@ -1,17 +1,17 @@
 {
-  "subtitle": "\u00bfQu\u00e9 hacer con la discriminaci\u00f3n?", 
+  "subtitle": "\u00bfQu\u00e9 hacer frente a un caso?", 
   "uuid": "c95ffe92cd954d7984ea3e428e85479c", 
   "language": "spa_ES", 
-  "title": "\u00bfQu\u00e9 hacer con la discriminaci\u00f3n?", 
+  "title": "\u00bfQu\u00e9 hacer frente a un caso?", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "slug": "que-hacer-con-la-discriminacion", 
+  "slug": "que-hacer-frente-a-un-caso", 
   "source": null, 
   "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
