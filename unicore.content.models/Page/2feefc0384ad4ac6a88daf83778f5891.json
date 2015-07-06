@@ -1,17 +1,17 @@
 {
   "subtitle": "Saludo afectuoso", 
-  "description": "Un contacto se entera cu\u00e1ndo es nuestro cumplea\u00f1os y puede dejarnos un saludo afectuoso en el muro de Facebook, pero no est\u00e1 invitado a compartir nuestra fiesta.", 
-  "language": "spa_PY", 
+  "description": "Saludo afectuoso", 
+  "language": "spa_ES", 
   "title": "Saludo afectuoso", 
   "primary_category": "44768d7e9c0045efb8b236224b559120", 
   "created_at": "2015-05-20T19:31:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T21:35:44.954133+00:00", 
+  "modified_at": "2015-07-06T18:51:00.294496+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 91, 
+  "position": 94, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "saludo-afectuoso", 
   "uuid": "2feefc0384ad4ac6a88daf83778f5891"
