@@ -1,17 +1,17 @@
 {
   "subtitle": "Proh\u00edben creaci\u00f3n de perfiles", 
-  "description": "Adem\u00e1s, proh\u00edben la creaci\u00f3n de perfiles que no representen a una persona real o que usurpen la identidad de una persona real; no admiten las expresiones que agravien u ofendan a personas, grupos o comunidades; y tiene edades de admisi\u00f3n. Por ejemplo, Facebook,\r\nTwitter o Google+ no admiten usuarios o usuarias menores de 13 a\u00f1os.", 
-  "language": "spa_PY", 
+  "description": "Proh\u00edben creaci\u00f3n de perfiles", 
+  "language": "spa_ES", 
   "title": "Proh\u00edben creaci\u00f3n de perfiles", 
   "primary_category": "6baac05b6a2c44db9233fa678e5eb933", 
   "created_at": "2015-05-20T19:18:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:32:35.084630+00:00", 
+  "modified_at": "2015-07-06T18:25:40.686994+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "prohiben-creacion-de-perfiles", 
   "uuid": "bbb7de46046d4ae2bfbd352831e5fda8"
