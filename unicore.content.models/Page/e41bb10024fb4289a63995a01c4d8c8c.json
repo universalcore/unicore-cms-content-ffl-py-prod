@@ -1,17 +1,17 @@
 {
   "subtitle": "Si un ni\u00f1o es v\u00edctima", 
-  "description": "Si un ni\u00f1o, ni\u00f1a o adolescente est\u00e1 siendo v\u00edctima de acoso y discriminaci\u00f3n, se recomienda ser equilibrados en la evaluaci\u00f3n del problema: sin minimizarlo ni sobredimensionarlo; no echarle la culpa a internet: la queja sobre el medio o la prohibici\u00f3n de su uso no solucionan el problema. Cerrar los perfiles en las redes sociales, tampoco.\r\n", 
-  "language": "spa_PY", 
+  "description": "Si un ni\u00f1o es v\u00edctima", 
+  "language": "spa_ES", 
   "title": "Si un ni\u00f1o es v\u00edctima", 
   "primary_category": "c95ffe92cd954d7984ea3e428e85479c", 
   "created_at": "2015-05-21T15:04:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:31:07.188257+00:00", 
+  "modified_at": "2015-07-06T18:24:31.537648+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "si-un-nino-es-victima", 
   "uuid": "e41bb10024fb4289a63995a01c4d8c8c"
