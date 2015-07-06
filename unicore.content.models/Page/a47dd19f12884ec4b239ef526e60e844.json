@@ -1,17 +1,17 @@
 {
   "subtitle": "No reaccionar", 
-  "description": "No hay que reaccionar de manera exagerada si nos cuentan que encontraron o hicieron algo \u201cmalo\u201d en internet.", 
-  "language": "spa_PY", 
+  "description": "No reaccionar", 
+  "language": "spa_ES", 
   "title": "No reaccionar", 
   "primary_category": "c95ffe92cd954d7984ea3e428e85479c", 
   "created_at": "2015-05-21T15:06:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:42:28.631106+00:00", 
+  "modified_at": "2015-07-06T18:32:51.948792+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "no-reaccionar", 
   "uuid": "a47dd19f12884ec4b239ef526e60e844"
