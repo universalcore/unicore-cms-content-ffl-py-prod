@@ -1,17 +1,17 @@
 {
-  "subtitle": "Espacios de confianza", 
-  "description": "Espacios de confianza", 
+  "subtitle": "Generar espacios de confianza", 
+  "description": "Generar espacios de confianza", 
   "language": "spa_ES", 
-  "title": "Espacios de confianza", 
+  "title": "Generar espacios de confianza", 
   "primary_category": "fec84c5fa09448d9be7bbc65dfe1745e", 
   "created_at": "2015-05-21T15:29:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T18:10:57.322645+00:00", 
+  "modified_at": "2015-07-06T19:10:20.809444+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "espacios-de-confianza", 
+  "slug": "generar-espacios-de-confianza", 
   "uuid": "0b7675e5908848feb1de558d653a061a"
 }
