@@ -1,17 +1,17 @@
 {
-  "subtitle": "V\u00ednculos virtuales", 
-  "description": "V\u00ednculos virtuales", 
+  "subtitle": "V\u00ednculos netamente virtuales", 
+  "description": "V\u00ednculos netamente virtuales", 
   "language": "spa_ES", 
-  "title": "V\u00ednculos virtuales", 
+  "title": "V\u00ednculos netamente virtuales", 
   "primary_category": "44768d7e9c0045efb8b236224b559120", 
   "created_at": "2015-05-20T19:29:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T18:51:41.664222+00:00", 
+  "modified_at": "2015-07-06T19:38:06.033159+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 97, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "vinculos-virtuales", 
+  "slug": "vinculos-netamente-virtuales", 
   "uuid": "3a5e473f886a40f89f00683013498cfb"
 }
