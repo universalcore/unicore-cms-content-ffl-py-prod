@@ -1,17 +1,17 @@
 {
   "subtitle": "Tema de conversaci\u00f3n", 
-  "description": "Tratar de que internet y los h\u00e1bitos sobre su uso sean un tema de conversaci\u00f3n habitual con los ni\u00f1os, ni\u00f1as y adolescentes.", 
-  "language": "spa_PY", 
+  "description": "Tema de conversaci\u00f3n", 
+  "language": "spa_ES", 
   "title": "Tema de conversaci\u00f3n", 
   "primary_category": "fec84c5fa09448d9be7bbc65dfe1745e", 
   "created_at": "2015-05-21T15:30:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T21:40:32.313783+00:00", 
+  "modified_at": "2015-07-06T18:13:53.078758+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "tema-de-conversacion", 
   "uuid": "282d76be26ba48aeab85cfe67dc8e937"
