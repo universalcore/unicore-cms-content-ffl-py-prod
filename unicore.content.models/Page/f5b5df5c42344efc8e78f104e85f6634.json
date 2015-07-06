@@ -1,17 +1,17 @@
 {
   "subtitle": "Unidad Especializada", 
-  "description": "Unidad Especializada de Delitos Inform\u00e1ticos del Ministerio P\u00fablico: investiga sobre todo lo relacionado a la alteraci\u00f3n de datos en computadora, sabotaje de computadoras y alteraci\u00f3n de datos relevantes para la prueba, delitos inform\u00e1ticos como estafas a trav\u00e9s de tarjetas, pornograf\u00eda infantil, extorsiones y amenazas utilizando correo electr\u00f3nico y mensajes de texto, redes sociales, entre otros. Tel\u00e9fono: (021) 494 657. Direcci\u00f3n: Humait\u00e1 c/ Col\u00f3n, Asunci\u00f3n.\r\n", 
-  "language": "spa_PY", 
+  "description": "Unidad Especializada\r\n", 
+  "language": "spa_ES", 
   "title": "Unidad Especializada", 
   "primary_category": "9ef7e8bd480b4557bdf89ff12be82a5d", 
   "created_at": "2015-05-21T15:13:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:35:43.896498+00:00", 
+  "modified_at": "2015-07-06T18:27:09.025480+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "unidad-especializada", 
   "uuid": "f5b5df5c42344efc8e78f104e85f6634"
