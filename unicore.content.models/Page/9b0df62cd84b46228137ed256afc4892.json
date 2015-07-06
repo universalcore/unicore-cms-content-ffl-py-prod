@@ -1,17 +1,17 @@
 {
   "subtitle": "P\u00e1gina", 
-  "description": "P\u00e1gina: adem\u00e1s de perfiles, las redes sociales como Facebook tambi\u00e9n admiten la creaci\u00f3n de p\u00e1ginas, que son espacios cuyo objetivo espec\u00edfico es reunir a personas que comparten los mismos intereses. En general, las p\u00e1ginas de Facebook est\u00e1n dedicadas a productos, marcas, artistas, pel\u00edculas de cine, etc. En esos espacios los usuarios y usuarias intercambian informaci\u00f3n relacionada con el tema que los convoca.", 
+  "description": "P\u00e1gina", 
   "language": "spa_ES", 
   "title": "P\u00e1gina", 
   "primary_category": "2e824438c89e439e8d3d9a1cd57a3e53", 
-  "created_at": "2015-05-21T19:10:08.461765+00:00", 
+  "created_at": "2015-05-21T19:10:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-21T19:12:32.532191+00:00", 
+  "modified_at": "2015-07-06T18:29:01.352856+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "pagina", 
   "uuid": "9b0df62cd84b46228137ed256afc4892"
