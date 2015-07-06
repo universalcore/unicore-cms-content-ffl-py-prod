@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
-  "description": "Para m\u00e1s informaci\u00f3n, contacte con la oficina de Unicef Paraguay: Avda. Mcal. L\u00f3pez esq. Sarav\u00ed, edificio Naciones Unidas, primer piso, Asunci\u00f3n. Tel.: (+595 21) 611 007/8. E-mail: informacionpy@unicef.org. Sitio web: www.unicef.org/paraguay.", 
+  "subtitle": "Contacto", 
+  "description": "Contacto", 
   "language": "spa_ES", 
   "title": "Contacto", 
   "primary_category": null, 
   "created_at": "2015-06-29T09:04:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T14:54:52.509248+00:00", 
+  "modified_at": "2015-07-06T18:53:44.062382+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "contact", 
+  "slug": "contacto", 
   "uuid": "9ecba66d68d14da8a9459d6aca2a3d40"
 }
