@@ -1,17 +1,17 @@
 {
-  "subtitle": "Amigos en l\u00ednea", 
-  "description": "Amigos en l\u00ednea", 
+  "subtitle": "Conocer a los \"amigos en l\u00ednea\"", 
+  "description": "Conocer a los \"amigos en l\u00ednea\"", 
   "language": "spa_ES", 
-  "title": "Amigos en l\u00ednea", 
+  "title": "Conocer a los \"amigos en l\u00ednea\"", 
   "primary_category": "44768d7e9c0045efb8b236224b559120", 
   "created_at": "2015-05-20T19:33:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T18:50:34.809252+00:00", 
+  "modified_at": "2015-07-06T19:35:47.131946+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 92, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "amigos-en-linea", 
+  "slug": "conocer-a-los-amigos-en-linea", 
   "uuid": "c696561bb3d04af09f9e43b042ae04c1"
 }
