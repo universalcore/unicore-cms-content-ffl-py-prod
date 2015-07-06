@@ -1,17 +1,17 @@
 {
   "subtitle": "Conversaci\u00f3n", 
-  "description": "Decidir con qui\u00e9n participamos de una conversaci\u00f3n en video es parte de las alternativas que generan las nuevas tecnolog\u00edas y sobre las cuales debemos orientar a los ni\u00f1os y ni\u00f1as.", 
-  "language": "spa_PY", 
+  "description": "Conversaci\u00f3n", 
+  "language": "spa_ES", 
   "title": "Conversaci\u00f3n", 
   "primary_category": "ab9cda784a2e4f38ac9682331d9a3f98", 
   "created_at": "2015-05-21T19:04:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T20:44:18.519242+00:00", 
+  "modified_at": "2015-07-06T18:36:03.900966+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "conversacion", 
   "uuid": "06e2aec1ae0f46ee99a764aaa75cd258"
