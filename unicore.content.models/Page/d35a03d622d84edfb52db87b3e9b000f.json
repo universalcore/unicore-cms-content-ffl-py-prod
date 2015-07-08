@@ -3,15 +3,15 @@
   "description": "Personas de confianza", 
   "language": "spa_ES", 
   "title": "Personas de confianza", 
-  "primary_category": "b1f53a1702f74e87a2438e7370c4baf1", 
+  "primary_category": "e8d8bc22287e44688a15707b8bfac14f", 
   "created_at": "2015-05-21T15:48:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T19:27:38.372541+00:00", 
+  "modified_at": "2015-07-08T19:15:06.181259+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
