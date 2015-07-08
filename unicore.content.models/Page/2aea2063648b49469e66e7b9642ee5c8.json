@@ -6,12 +6,12 @@
   "primary_category": "e8d8bc22287e44688a15707b8bfac14f", 
   "created_at": "2015-05-21T15:39:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T18:43:28.414848+00:00", 
+  "modified_at": "2015-07-08T19:19:08.769072+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,7 +24,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 30, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "eliminar-informacion-personal", 
   "uuid": "2aea2063648b49469e66e7b9642ee5c8"
