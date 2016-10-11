@@ -2,16 +2,16 @@
   "subtitle": "", 
   "description": "", 
   "language": "spa_ES", 
-  "title": "Lo que hay que saber acerca de las emergencias", 
-  "primary_category": null, 
-  "created_at": "2016-10-11T13:19:32.401163+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2016-10-11T13:19:32.401515+00:00", 
+  "title": "Las familias y comunidades deben saber sobre las emergencias", 
+  "primary_category": "9ef03d5111a1410ab03e3329c4d7912a", 
+  "created_at": "2016-10-11T13:19:32+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-10-11T13:21:03.815416+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "lo-que-hay-que-saber-acerca-de-las-emergencias", 
+  "slug": "las-familias-y-comunidades-deben-saber-sobre-las-emergencias", 
   "uuid": "70f34823ff2c49f592abe2ca8cbeff8b"
 }
