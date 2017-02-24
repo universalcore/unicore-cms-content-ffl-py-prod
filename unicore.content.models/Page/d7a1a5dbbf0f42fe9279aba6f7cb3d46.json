@@ -6,12 +6,12 @@
   "primary_category": "4593a927f4d84598a41d020cb6de0651", 
   "created_at": "2016-10-11T13:55:30+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2017-02-24T13:18:49.086301+00:00", 
+  "modified_at": "2017-02-24T13:23:59.904559+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 10, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "maneras-de-prevenir-y-curar-la-diarrea", 
   "uuid": "d7a1a5dbbf0f42fe9279aba6f7cb3d46"
