@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1b4c4a529e704ecdba54eab917c149ae"
+  ], 
   "id": null, 
   "content": "**Datos sobre el paludismo**  \r\n\r\n**1. El paludismo es propagado por la picadura de algunos zancudos.** Dormir bajo un mosquitero tratado con insecticida es la mejor manera de prevenir las picaduras de zancudo.  \r\n\r\n**2. Si el paludismo est\u00e1 presente, los ni\u00f1os y ni\u00f1as est\u00e1n en peligro.** Un ni\u00f1o o ni\u00f1a con fiebre debe ser examinado de inmediato por un trabajador de la salud capacitado y recibir un tratamiento apropiado tan pronto sea posible si se le diagnostica el paludismo. Las terapias combinadas basadas en la artemisinina (TCA) son recomendadas por la OMS para el tratamiento del paludismo.  \r\n\r\n**3. El paludismo es muy peligroso para las embarazadas.** Dondequiera sea com\u00fan el paludismo, ellas deben prevenirlo tomando tabletas antipal\u00fadicas recomendadas por un trabajador de la salud capacitado y durmiendo bajo un mosquitero tratado con insecticida.  \r\n\r\n**4. Un ni\u00f1o o ni\u00f1a que padece o se recupera del paludismo necesita bastante l\u00edquido y alimento.**\r\n \r\nArt\u00edculo siguiente: ", 
   "source": "f9ae699291104e20800f3b171eae9a22", 
